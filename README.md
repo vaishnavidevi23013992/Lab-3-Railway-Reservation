@@ -55,7 +55,8 @@ their tickets.
 
 ## COMMUNICATION DIAGRAM:
 
-![WhatsApp Image 2024-04-22 at 11 15 33_533a9fd8](https://github.com/vaishnavidevi23013992/Lab-3-Railway-Reservation/assets/151864235/3de82fd1-cc97-4f04-9faf-e45374c8b793)
+![COMMUNICATION-RAILWAY](https://github.com/vaishnavidevi23013992/Lab-3-Railway-Reservation/assets/151864235/b7da1be5-d208-4766-baa8-db37e08f37c4)
+
 
 ## PACKAGE DIAGRAM:
 ![WhatsApp Image 2024-04-22 at 11 14 36_b03c97ea](https://github.com/vaishnavidevi23013992/Lab-3-Railway-Reservation/assets/151864235/279a7380-b74b-41b0-940f-de912280a59c)
